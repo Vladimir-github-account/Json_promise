@@ -80,3 +80,4 @@ function loadUsersSuccess(response) {
 function loadUsersError(response) {
     const jsonUsers = response.json();
 }
+
